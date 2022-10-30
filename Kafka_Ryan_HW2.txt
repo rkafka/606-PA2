@@ -1,0 +1,3 @@
+https://rottenpotatoes-606-pa2.herokuapp.com/
+
+https://github.com/rkafka/606-PA2/tree/main
